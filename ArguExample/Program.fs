@@ -15,7 +15,7 @@ type CliArguments =
 
 
 
-let parseName name =
+let parseName (name: string) =
     if Seq.forall Char.IsLetter name 
     then name
     else failwith "Name can only contain letters."
