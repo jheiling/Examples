@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ArguExample", "ArguExample\ArguExample.fsproj", "{BE7F9CFD-1BE3-423C-87B2-B2A7DC34408A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerExample", "BlazorServerExample\BlazorServerExample.csproj", "{EA4729DF-8C42-4BBF-9C3F-D6F9E6500025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerExample", "BlazorServerExample\BlazorServerExample.csproj", "{EA4729DF-8C42-4BBF-9C3F-D6F9E6500025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibraryExample", "RazorClassLibraryExample\RazorClassLibraryExample.csproj", "{09845970-2E7F-450A-B385-9F53DA185203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EA4729DF-8C42-4BBF-9C3F-D6F9E6500025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4729DF-8C42-4BBF-9C3F-D6F9E6500025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4729DF-8C42-4BBF-9C3F-D6F9E6500025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09845970-2E7F-450A-B385-9F53DA185203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09845970-2E7F-450A-B385-9F53DA185203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09845970-2E7F-450A-B385-9F53DA185203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09845970-2E7F-450A-B385-9F53DA185203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
