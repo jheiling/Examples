@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerExample", "Blaz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorClassLibraryExample", "RazorClassLibraryExample\RazorClassLibraryExample.csproj", "{09845970-2E7F-450A-B385-9F53DA185203}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoPizza.WebAPI", "ContosoPizza.WebAPI\ContosoPizza.WebAPI.csproj", "{B52E54DD-25E6-4875-9030-60D58A0BC3B5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{09845970-2E7F-450A-B385-9F53DA185203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09845970-2E7F-450A-B385-9F53DA185203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09845970-2E7F-450A-B385-9F53DA185203}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B52E54DD-25E6-4875-9030-60D58A0BC3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B52E54DD-25E6-4875-9030-60D58A0BC3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B52E54DD-25E6-4875-9030-60D58A0BC3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B52E54DD-25E6-4875-9030-60D58A0BC3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
